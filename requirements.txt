@@ -1,0 +1,7 @@
+spacy
+numpy
+requests
+langdetect
+selenium
+beautifulsoup4
+pyspellchecker
