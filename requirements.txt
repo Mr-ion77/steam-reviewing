@@ -6,3 +6,4 @@ selenium
 beautifulsoup4
 pyspellchecker
 stop_words
+unidecode
