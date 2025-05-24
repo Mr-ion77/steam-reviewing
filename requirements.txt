@@ -17,4 +17,3 @@ jupyter
 ipywidgets
 sentencepiece 
 protobuf
-langdetect
