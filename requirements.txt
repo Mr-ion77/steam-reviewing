@@ -7,3 +7,12 @@ beautifulsoup4
 pyspellchecker
 stop_words
 unidecode
+nltk
+pandas
+matplotlib
+seaborn
+scikit-learn
+xgboost
+jupyter ipywidgets
+sentencepiece 
+protobuf
