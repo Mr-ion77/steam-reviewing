@@ -13,6 +13,8 @@ matplotlib
 seaborn
 scikit-learn
 xgboost
-jupyter ipywidgets
+jupyter
+ipywidgets
 sentencepiece 
 protobuf
+langdetect
