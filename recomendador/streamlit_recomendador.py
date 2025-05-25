@@ -13,7 +13,7 @@ st.set_page_config(page_title="🎮 Recomendador de Juegos de Steam", layout="ce
 # ---------- CARGA DE DATOS ----------
 @st.cache_resource
 def cargar_datos():
-    df = pd.read_csv("juegos_con_vectores.csv")
+    df = pd.read_csv("../data/juegos_con_vectores.csv")
     with open("combined_features.pkl", "rb") as f:
         combined = pickle.load(f)
     with open("similitud_combinada.pkl", "rb") as f:
