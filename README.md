@@ -8,9 +8,9 @@ Estructura del Proyecto:
 
 - data: Incluye conjuntos de datos utilizados para el entrenamiento y evaluación de los modelos, así como scripts para la preparación de datos.
 
--recomendador: Implementa el sistema de recomendación que sugiere juegos a los usuarios basándose en las etiquetas y la descripcion del propio título.
+- recomendador: Implementa el sistema de recomendación que sugiere juegos a los usuarios basándose en las etiquetas y la descripcion del propio título.
 
--web_scrapping_preprocesado: Scripts para la extracción de reseñas de Steam mediante web scraping y su posterior preprocesamiento, incluyendo limpieza y tokenización.
+- web_scrapping_preprocesado: Scripts para la extracción de reseñas de Steam mediante web scraping y su posterior preprocesamiento, incluyendo limpieza y tokenización.
 
 - requirements.txt: Lista aproximada de dependencias necesarias para ejecutar el proyecto.
   
